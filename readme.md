@@ -10,3 +10,7 @@
     virtualenv venv
     source venv/bin/activate.fish
     pip install -r requirements.txt
+
+# To run project
+  
+    python main.py
